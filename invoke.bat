@@ -1,0 +1,1 @@
+"C:\MDX\contents\hstart64.exe" /NOCONSOLE /D="C:\MDX\contents" /HIGH "C:\MDX\contents\startserver.bat"
